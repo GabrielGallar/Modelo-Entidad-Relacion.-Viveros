@@ -130,7 +130,10 @@ Representa la asignación de los empleados a los viveros.
 
 La asignación es histórica, ya que un empleado puede estar destinado a diferentes viveros en distintos períodos, pero no puede tener dos destinos simultáneamente.
 
-**Cardinalidad: 1:N**
+**Cardinalidad: N:M**
+
+- Un empleado puede estar asignado a distintos viveros en distintos periodos de tiempo
+- Un vivero puede tener distintos empleados 
 
 **Atributos de la relación:**
 - `fecha_inicio`: inicio del período de asignación.

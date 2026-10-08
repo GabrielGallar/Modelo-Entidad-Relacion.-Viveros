@@ -78,7 +78,7 @@ Representa los pedidos realizados por los clientes de Tajinaste S.A.
 
 | Entidad | Atributo | Dominio / Descripción | Ejemplo |
 |---|---|---|---|
-| VIVERO | `id_vivero` | Identificador único del vivero | `V001` |
+| VIVERO | `georreferenciacion` | Latitud y longitud del vivero | `V001` |
 | ZONA | `georreferenciacion` | Latitud y longitud de la zona | `28.4636, -16.2518` |
 | ZONA | `tipo` | Tipo de zona del vivero | `Almacén` |
 | PRODUCTO | `id_producto` | Identificador único del producto | `P025` |

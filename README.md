@@ -14,7 +14,7 @@ Gabriel Gallardo Noda Alu0101633961@ull.edu.es
 Representa cada uno de los viveros pertenecientes a la red de Tajinaste S.A.
 
 **Atributos:**
-- `id_vivero`: identificador único del vivero.
+- `georreferenciacion`: identifica la localización del vivero mediante su latitud y longitud.
 
 ### ZONA
 

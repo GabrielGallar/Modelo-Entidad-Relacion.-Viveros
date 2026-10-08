@@ -3,7 +3,7 @@ P3 de Administración y Diseño de bases de datos
 
 Azael Santana Domínguez alu0101542119@ull.edu.es
 
-Gabriel Gallardo Noda Alu0101633961@ull.edu.es
+Gabriel Gallardo Noda alu0101633961@ull.edu.es
 
 # Modelo Entidad/Relación — Tajinaste S.A.
 
